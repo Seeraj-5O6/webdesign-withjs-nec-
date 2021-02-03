@@ -1,7 +1,14 @@
-h1{
-    color: red;
-}
-#sms{
+.mdiv{
+    border:10% solid black;
+    padding :10px;
+    margin: 10px;
+    width: 5%;
 
- color: green;
+}
+.ldiv{
+    border: 5%px solid red;
+    padding: 10px;
+    margin:20px ;
+    display: flex;
+    
 }
